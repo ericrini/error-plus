@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Syntactical sugar for handling errors in complex asynchronous workflows.",
   "main": "index.js",
+  "repository": "https://github.com/ericrini/error-plus.git",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
