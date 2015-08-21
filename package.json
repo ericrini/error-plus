@@ -1,0 +1,11 @@
+{
+  "name": "error-plus",
+  "version": "1.0.0",
+  "description": "Syntactical sugar for handling errors in complex asynchronous workflows.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Eric Rini",
+  "license": "MIT"
+}
