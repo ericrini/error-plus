@@ -1,5 +1,5 @@
 # ErrorPlus
-Have you ever gotten an error like ECONNREFUSED and thought "gee this application makes 3 or 4 connections", this error
+Have you ever gotten an error like ECONNREFUSED and thought "gee this application makes 3 or 4 connections, this error
 doesn't really tell me what is failing." ErrorPlus is an attempt to provide the syntactical sugar needed to properly
 capture and format errors spanning across complex asynchronous workflows. This should result in making it easy to build
 up detailed errors as they propagate back up the call stack from deep in the bowels of the V8 system libraries.
